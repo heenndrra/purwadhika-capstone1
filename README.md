@@ -1,4 +1,3 @@
-<img width="745" alt="image-2" src="https://github.com/user-attachments/assets/fb58583e-5787-48fa-b010-ca98debbe6b9"># purwadhika-capstone1
 # **README**
 --
 This app is created for my Purwadhika capstone project 1. This app is an order management system(OMS) that have capabilities to view, create, update and delete an order. 
