@@ -124,4 +124,4 @@ if the user input 1, the order will be deleted as shown below
 <img width="582" alt="image-19" src="https://github.com/user-attachments/assets/8a2d9151-d641-44f6-8884-7d133441d7b2">
 
 if the user input 2, cancel order program will be cancelled
-![Uploading image-18.png…]()
+<img width="553" alt="image-18" src="https://github.com/user-attachments/assets/80ea0261-ec09-4c44-93e5-124aa2fb53a5">
